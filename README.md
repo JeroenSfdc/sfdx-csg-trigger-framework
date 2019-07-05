@@ -1,4 +1,4 @@
-# sfdx-csg-trigger-framework	# Salesforce App
+# sfdx-csg-trigger-framework
 Trigger Framework inspired by the Lightweight Trigger Framework originally created by Kevin o'Hara. 	
 
 This fork adds: 	
