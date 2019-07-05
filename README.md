@@ -1,5 +1,6 @@
 # sfdx-csg-trigger-framework
-Trigger Framework inspired by Kevin the Lightweight Trigger Framework originally created by Kevin o'Hara. 
+Trigger Framework inspired by the Lightweight Trigger Framework originally created by Kevin o'Hara. 
+
 This fork adds: 
 - Custom setting-based bypass dashboard (also for Process Builders, Flows, ...)
 - Dummy apex class for branching-out of a Process Builder or Flow (invocable class/method)
